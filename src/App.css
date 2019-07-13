@@ -17,10 +17,56 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.btn-css{
+  width:90% !important;
+  text-align: center;
+}
+
+.drop-css{
+cursor: pointer !important;
+}
+
+.height-css{
+  height: 500px;
+}
+
+ .btun-css{
+  width: 110px;
+  height: 35px;
+} 
+
+.set-font{
+  font-size: 25px;
+}
+
+.set-optfont{
+font-size: 20px;
+}
+
+.bg-css{
+  background-color: #33406e;
+  box-shadow: 4px 6px 5px 4px rgba(31, 57, 167, 0.6) !important;
+  
+}
+
+.set-brandColor{
+  color:white !important;
+  font-size: 18px !important;
+}
+
+.font-size{
+  font-size: 38px !important;
+}
+
+.style{
+  font-size: xx-large;
 }
 
 @keyframes App-logo-spin {
@@ -30,4 +76,47 @@
   to {
     transform: rotate(360deg);
   }
+}
+.center-option{
+  margin-left: 85px !important;
+}
+.css-color{
+  color:white !important;
+}
+.crt-css{
+  color: black !important;
+  font-size: larger !important;
+  font-weight: 600 !important;
+}
+.crt-wrong{
+  background-color: red !important;
+  color: white !important;
+}
+.ctr-correct{
+  background-color: green !important;
+  color: white !important;
+}
+
+.style-footer{
+  background-color: currentColor !important;
+}
+.ts-css{
+  background-color: #0a0c1d !important;
+}
+.tss-css{
+  color: white !important;
+font-size: 33px;
+}
+.footer{
+  background-color: black !important;
+  position: inherit;
+  width: 100%;
+  height: 30%;
+  bottom: 0%;
+  margin-top: 24%;
+}
+.option-css{
+  background-color: gray !important;
+  border-radius: 20px 20px !important; 
+  color:white;
 }
